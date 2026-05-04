@@ -13,3 +13,49 @@
 *.sln
 *.csproj
 *.unityproj
+<<<<<<< HEAD
+=======
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Unity3D generated meta files
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+
+# Unity3D generated file on crash reports
+sysinfo.txt
+
+# Builds
+*.apk
+*.aab
+*.unitypackage
+*.unitypackage.meta
+*.app
+
+# Crashlytics generated file
+crashlytics-build.properties
+
+# Packed Addressables
+/[Aa]ssets/[Aa]ddressable[Aa]ssets[Dd]ata/*/*.bin*
+
+# Temporary auto-generated Android Assets
+/[Aa]ssets/[Ss]treamingAssets/aa.meta
+/[Aa]ssets/[Ss]treamingAssets/aa/*
+CH03/Roulette_iOS/Libraries/libiPhone-lib.a
+CH04/Library/PackageCache/com.unity.burst@1.8.15/.Runtime/libburst-llvm-16.dylib
+CH04/car_iOS/Libraries/libiPhone-lib.a
+CH05/Library/PackageCache/com.unity.burst@1.8.15/.Runtime/libburst-llvm-16.dylib
+CH05/CatEscape_iOS/Libraries/libiPhone-lib.a
+CH06/Library/PackageCache/com.unity.burst@1.8.15/.Runtime/libburst-llvm-16.dylib
+>>>>>>> 3e7fd698e9e8370f400a340bbbe5a6c45e62e925
